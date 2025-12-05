@@ -6,7 +6,7 @@ async function main() {
     while(true) {
         console.log("Hola mundo!");
         console.log("Esperando 10 segundos...");
-        await sleep(1000);
+        await sleep(10000);
     }
 }
 
